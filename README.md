@@ -8,3 +8,7 @@
   Vamos importar um dataset que contém informações de imovéis no estado de São Paulo, a princípio nosso interesse é de apenas utilizar as informações de latitude e longitude para construirmos o mapa utilizando a linguagem Python e a biblioteca Folium
   
   ![Peek 2020-03-12 16-18](https://user-images.githubusercontent.com/59518539/76561097-5eaa4f80-6481-11ea-86ae-bdd6931dcd2a.gif)
+
+  Com auxilio do mapa é possível identificarmos onde estão concentrados imóveis no território de SP, de maneira macro, conseguimos extrair informações pertinentes a geolocalização, etc.
+  
+  ![imoveis-SP](https://user-images.githubusercontent.com/59518539/76565249-ee9fc780-6488-11ea-9ecd-2068e1a1dde2.gif)

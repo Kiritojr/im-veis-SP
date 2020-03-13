@@ -5,7 +5,7 @@
   As dificuldades enfrentadas na vendas de imóveis, devido às grandes mudanças na política econômica do Brasil, vem tornando o mercado imobiliário estagnado, pois a população não conseguia arrumar um meio de fazer uma negociação, as possibilidades de dar entradas e fazer empréstimos eram difícies, e as na maioria das vezes em que se recorria aos bancos ainda não conseguia facilmente uma solução.
   
    
-  Vamos importar um dataset que contém informações de imovéis no estado de São Paulo, a princípio nosso interesse é de apenas utilizar as informações de latitude e longitude para construirmos o mapa utilizando a linguagem Python e a biblioteca Folium
+  Vamos importar um dataset que contém informações de imovéis no estado de São Paulo, a princípio nosso interesse é de apenas utilizar as informações de latitude e longitude para construirmos o mapa utilizando a linguagem Python e a biblioteca Folium.
   
   ![Peek 2020-03-12 16-18](https://user-images.githubusercontent.com/59518539/76561097-5eaa4f80-6481-11ea-86ae-bdd6931dcd2a.gif)
 
